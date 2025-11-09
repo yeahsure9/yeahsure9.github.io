@@ -1,13 +1,13 @@
 Unofficial [Aliucord](https://github.com/Aliucord) docs :3
 
 # How to install Aliucord
-https://github.com/Aliucord/Manager#installation
+[Aliucord Manager installation guide](https://github.com/Aliucord/Manager#installation)
 
 # How to install plugins
-https://aliucord.com/files/tut/InstallPlugins.mp4
+[InstallPlugins.mp4](https://aliucord.com/files/tut/InstallPlugins.mp4)
 
 # How to install themes
-https://aliucord.com/files/tut/InstallThemes.mp4
+[InstallThemes.mp4](https://aliucord.com/files/tut/InstallThemes.mp4)
 
 # How to set a custom background image/gif
 - Install [Themer](https://github.com/Vendicated/AliucordPlugins/raw/builds/Themer.zip) plugin
@@ -60,7 +60,3 @@ Final result should be `file://storage/emulated/0/Example/Example.mp3`
 - SendEmbeds fork by Serinova makes the `/embed` command work again by using directwebhook (original api died)
  
 - PlayableEmbeds fork by Enovale makes the embeds playable for every website instead for YouTube & Spotify only
-
----
-
-End
