@@ -57,5 +57,5 @@ Final result should be `file://storage/emulated/0/Example/Example.ttf`
 - Press the download button
 - Move the downloaded `.json` to your `Aliucord/themes` folder using a file manager & restart Aliucord if it was open
 - Go to Themer settings, enable full transparency & enable the theme
-- Go inside the theme settings → `Background` & paste the image url
-- Press back, Save changes & restart Aliucord
+- Go inside the theme settings → `Background` & paste the image/gif url
+- Press back, press the save button & restart Aliucord
