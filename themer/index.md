@@ -6,7 +6,7 @@ First of all, you need to Install [Themer](https://github.com/Vendicated/Aliucor
 - [Theme maker](https://aliucord.com/theme-maker)
 
 ## How to set a custom background
-First of all, you need to enable transparency (chat, chat & settings). If you want full transparency, you need to use the template found below.
+First of all, you need to enable transparency in Themer settings (chat, chat & settings). If you want full transparency, you need to use the template found below.
 
 GitHub:
 - Create a github account 
