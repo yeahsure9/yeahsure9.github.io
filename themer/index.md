@@ -1,32 +1,50 @@
 # Themer plugin guide
+First of all, you need to Install [Themer](https://github.com/Vendicated/AliucordPlugins/raw/builds/Themer.zip) plugin.
 
 ## How to create my own theme
 - [Documentation](https://github.com/Aliucord/documentation/blob/main/theme-dev)
 - [Theme maker](https://aliucord.com/theme-maker)
 
 ## How to set a custom background
-- Install [Themer](https://github.com/Vendicated/AliucordPlugins/raw/builds/Themer.zip) plugin ([manual way](https://yutaplug.github.io/Aliucord/beginner/#how-to-install-a-plugin-manually-required-for-unmaintained-plugins-channel))
+First of all, you need to enable transparency (chat, chat & settings). If you want full transparency, you need to use the template found below.
+
+GitHub:
+- Create a github account 
+- Create a repo for your theme (make sure its public)
+- Click add file and upload the image/gif
+- Once uploaded, click the image/gif name
+- Hold the image and copy the address
+- Paste the link into Themer
+
+Locally:
 - Install [this file manager](https://play.google.com/store/apps/details?id=me.zhanghai.android.files) & open it (or any file manager that lets you copy file paths)
 - Find the image/gif file
 - Click the 3 dots next to it & press `Copy path`
 - Go to Themer settings → your theme → `Background` & paste it
 - Add `file:/` at the start
- 
+
 Final result should be `file://storage/emulated/0/Example/Example.jpg`
- 
-Don't forget to enable transparency (chat, chat & settings). If you want full transparency, you need to use the template
 
 ## How to set a custom font
+First of all, you need to enable the `Enable Custom Fonts` option in Themer settings.
+
+GitHub:
+- Create a github account 
+- Create a repo for your theme (make sure its public)
+- Click add file and upload the font
+- Once uploaded, click the font name
+- Hold `View raw` and copy the address
+- Paste the link(s) into Themer
+
+Locally:
 - Install [Themer](https://github.com/Vendicated/AliucordPlugins/raw/builds/Themer.zip) plugin ([manual way](https://yutaplug.github.io/Aliucord/beginner/#how-to-install-a-plugin-manually-required-for-unmaintained-plugins-channel))
 - Install [this file manager](https://play.google.com/store/apps/details?id=me.zhanghai.android.files) & open it (or any file manager that lets you copy file paths)
 - Find the font file
 - Click the 3 dots next to it & press `Copy path`
 - Go to Themer settings → your theme → `Fonts` & paste it where the asterisk is
 - Add `file:/` at the start
- 
+
 Final result should be `file://storage/emulated/0/Example/Example.ttf`
- 
-Don't forget to enable the `Enable Custom Fonts` option in Themer settings
 
 ## Why does my background image not work
 - You didn't enable transparency
