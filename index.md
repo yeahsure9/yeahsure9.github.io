@@ -4,7 +4,7 @@ Unofficial [Aliucord](https://github.com/Aliucord) docs :3 (made it so i dont ha
 
 ## Sections
 - [Beginner guide](https://yutaplug.github.io/Aliucord/beginner)
-- [Themer plugin guide](https://yutaplug.github.io/Aliucord/themer)
+- [Themer guide](https://yutaplug.github.io/Aliucord/themer)
 - [StartupSound, NoticeSound & CustomSounds guide](https://yutaplug.github.io/Aliucord/sounds)
 - [Plugin forks info](https://yutaplug.github.io/Aliucord/forks)
 - [Voice Chat situation](https://yutaplug.github.io/Aliucord/voicechat)
