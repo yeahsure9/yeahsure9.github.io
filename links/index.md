@@ -8,7 +8,7 @@
 - Click `Set as default` and enable `Open supported links` option
 - Click `Open supported links` and enable all of its options
 
-[Video guide](https://files.catbox.moe/aq8et0.mp4)
+[Video guide](https://streamable.com/o7fo7w)
 
 ## Xiaomi
 - [GitHub Gist guide](https://gist.github.com/Drownbywind/1188572357f76315067f85eb6e9665b6)
