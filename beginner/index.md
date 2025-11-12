@@ -33,3 +33,5 @@
 - Restart Aliucord
 
 [Video guide](https://streamable.com/a8pjvb)
+
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fyutaplug.github.io%2FAliucord%2Fbeginner&label=&icon=eye&color=%23000&message=&style=flat&tz=UTC)
