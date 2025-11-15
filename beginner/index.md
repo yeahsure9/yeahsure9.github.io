@@ -13,6 +13,8 @@
 
 **Note:** Most of the plugins need an app restart so they can properly work.
 
+[How to find plugins?](/Aliucord/findplugins)
+
 [VIDEO GUIDE](https://aliucord.com/files/tut/InstallPlugins.mp4)
 
 ## How to install themes
