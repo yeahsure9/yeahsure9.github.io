@@ -1,5 +1,5 @@
 # Themer plugin guide
-First of all, you need to Install [Themer](https://github.com/Vendicated/AliucordPlugins/raw/builds/Themer.zip) plugin ([how?](/Aliucord/findplugins))
+First of all, you need to Install [Themer](https://github.com/Vendicated/AliucordPlugins/raw/builds/Themer.zip) plugin ([how?](/Aliucord/beginner/#how-to-install-plugins))
 
 [How to install themes?](/Aliucord/beginner/#how-to-install-themes)
 
